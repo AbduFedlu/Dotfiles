@@ -10,7 +10,7 @@ Clone and run *stow --adopt .* in the Dotfiles dir
 
 vicinae
 waybar 
-awww 
+awww-git
 btop
 matugen
 fastfetch
@@ -23,6 +23,9 @@ yazi
 nvim
 mpv 
 kew
+copyq
+nmgui
+blueberry
 
 ## Shots 
 
