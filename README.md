@@ -34,7 +34,7 @@ kew
 
 <img width="1920" height="1080" alt="Screenshot from 2025-11-26 01-31-15" src="https://github.com/user-attachments/assets/3253707d-073c-48cb-9f4e-6ced9fd61511" />
 
-
+<img width="1920" height="1080" alt="Screenshot from 2025-11-26 01-36-25" src="https://github.com/user-attachments/assets/8f6fc621-8676-49e3-a80d-cbfe23bbdd2f" />
 
 
 
