@@ -10,11 +10,8 @@ Clone and run *stow --adopt .* in the Dotfiles dir
 
 vicinae
 waybar 
-<<<<<<< HEAD
 awww 
-=======
 awww-git
->>>>>>> 328476b0030b84cfec2b87a549b38333174b4b6c
 btop
 matugen
 fastfetch
@@ -27,7 +24,6 @@ yazi
 nvim
 mpv 
 kew
-<<<<<<< HEAD
 
 
 
