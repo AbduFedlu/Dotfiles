@@ -1,12 +1,5 @@
 @import "colors.css";
 
-
-#waybar {
-
-  padding: 0px 0px  
-}
-
-
 * {
   font-size: 13px;
   border-radius: 1rem;
@@ -20,12 +13,10 @@ window#waybar {
 
 
 #niri-window,
-#custom-weather,
 #disk,
 #window,
 #temperature,
-#temperature.critical,
-#idle_inhibitor {
+#temperature.critical {
 	padding: 0 10px;
         margin: 4px 1px 4px 1px;
     
@@ -56,14 +47,6 @@ window#waybar {
     
 }
 
-#network-speed {
-	padding: 0 5px;
-        margin: 4px 2px 4px 2px;
-	
-
-
-}
- 
 #tray,
 #mpris { 
         padding: 0 5px;
@@ -72,10 +55,6 @@ window#waybar {
 
 }
 
-
-
-#pulseaudio,
-#custom-pomodoro,
 #bluetooth,
 #battery, 
 #network,
@@ -114,6 +93,5 @@ tooltip {
 
 
 #waybar .module:hover {
-    background: rgba(153, 153, 153, 0.2); /* Slightly transparent white background */
-   
+    background: rgba(153, 153, 153, 0.2);   
 }
