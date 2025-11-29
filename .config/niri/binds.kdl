@@ -88,7 +88,7 @@ binds {
 
     Mod+W { toggle-column-tabbed-display; }
 
-    // Niri System 
+    // ---------------------------- Niri System ----------------------------
 
     Print { screenshot; }
     Ctrl+Print { screenshot-screen; }
