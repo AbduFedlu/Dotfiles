@@ -42,12 +42,26 @@ window-rule {
 // Unorganized
 
 
+
+window-rule {
+   
+    match app-id="firefox"
+
+    default-column-width { fixed 1136; }
+    default-window-height { fixed 949; }
+
+    open-floating false
+
+}
+
+
+
 window-rule {
    
     match app-id="kew"
     match app-id="com.github.neithern.g4music" 
     match app-id="dev.mufeed.Wordbook" 
-
+    match app-id="com.ayugram.desktop"
     default-column-width { fixed 490; }
     open-floating false
 
@@ -128,13 +142,4 @@ window-rule {
 }
 
 
-window-rule {
-	match app-id=r#"Firefox$"# title="^Enter name of file to save to…$"
-	match app-id=r#"Firefox$"# title="^Library$"
-        match app-id=r#"Firefox$"# title="^Save Image$"
-        match app-id=r#"Firefox$"# title="^File Upload$"
-	
-	default-column-width { fixed 60; }
-        default-window-height { fixed 50; }
-        open-floating true
-}
+

@@ -74,3 +74,8 @@ post_hook = '/home/abatu/.config/matugen/scripts/spicetify_theme.sh'
 [templates.Obsidian]
 input_path = '/home/abatu/.config/matugen/templates/obsidian.css'
 output_path = '/home/abatu/Documents/Obsidian Vault/.obsidian/snippets/mytheme.css'
+
+[templates.Ayugram]
+input_path = '/home/abatu/.config/matugen/templates/Ayugram.tdesktop-theme'
+output_path = '/home/abatu/Mein-scripts/colors.tdesktop-palette'
+
