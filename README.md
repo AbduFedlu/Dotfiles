@@ -1,4 +1,4 @@
-# Dotfiles
+<img width="1920" height="1080" alt="Screenshot from 2025-12-05 18-22-27" src="https://github.com/user-attachments/assets/89320252-d846-43b0-9492-98cbe4da5c2a" /># Dotfiles
 :)
 
 **Backed up using stow**
@@ -24,35 +24,20 @@ yazi
 nvim
 mpv 
 kew
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
 copyq
 nmgui
 blueberry
 
 ## Shots 
 
-<img width="1920" height="1080" alt="Screenshot from 2025-11-26 01-34-36" src="https://github.com/user-attachments/assets/8a38a8c5-edaf-4172-b100-dd625fac71df" />
+<img width="1920" height="1080" alt="Screenshot from 2025-12-05 18-20-45" src="https://github.com/user-attachments/assets/d68486c1-e457-4f3c-8e8c-5c04cc5efd6c" />
 
-<img width="1920" height="1080" alt="Screenshot from 2025-11-26 01-29-44" src="https://github.com/user-attachments/assets/c744e63f-6b6f-4252-8834-6942a6b0099e" />
+<img width="1920" height="1080" alt="Screenshot from 2025-12-05 18-20-45" src="https://github.com/user-attachments/assets/f0f028ad-ecb0-4f3e-9ba0-ae476eabb6d0" />
 
-<img width="1920" height="1080" alt="Screenshot from 2025-11-26 01-30-25" src="https://github.com/user-attachments/assets/1882edb3-d392-4673-8dc2-47103e22e55c" />
+<img width="1920" height="1080" alt="Screenshot from 2025-12-05 18-22-03" src="https://github.com/user-attachments/assets/dc3b17eb-1126-40b9-9512-20fbb70b4713" />
 
-<img width="1920" height="1080" alt="Screenshot from 2025-11-26 01-31-15" src="https://github.com/user-attachments/assets/3253707d-073c-48cb-9f4e-6ced9fd61511" />
+<img width="1920" height="1080" alt="Screenshot from 2025-12-05 18-22-03" src="https://github.com/user-attachments/assets/7cf31504-895f-467c-a476-113b6a1ae37b" />
 
-<img width="1920" height="1080" alt="Screenshot from 2025-11-26 01-36-25" src="https://github.com/user-attachments/assets/8f6fc621-8676-49e3-a80d-cbfe23bbdd2f" />
+<img width="1920" height="1080" alt="Screenshot from 2025-12-05 18-22-27" src="https://github.com/user-attachments/assets/2d67cd53-31d2-4182-944a-c209532dcf83" />
 
-<img width="1920" height="1080" alt="hyprlock-screenshot-20251126_014023" src="https://github.com/user-attachments/assets/9ac5c21d-c244-49fb-8a27-c60005dcbd9e" />
->>>>>>> 328476b0030b84cfec2b87a549b38333174b4b6c
+<img width="1920" height="1080" alt="Screenshot from 2025-12-05 18-25-28" src="https://github.com/user-attachments/assets/bb177178-1e74-426d-9abe-5c51d3a60961" />
